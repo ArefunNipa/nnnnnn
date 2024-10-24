@@ -23,6 +23,9 @@ export default {
         'dlrColor': '#C4C4C4',
 
       },
+      maxWidth: {
+        'containerAll': '1320px',
+      },
     },
   },
   plugins: [],
