@@ -1,21 +1,21 @@
 
 import './App.css'
-import Container from './Componentes/Container'
-import Flex from './Componentes/Flex'
-import Image from './Componentes/Image'
-import Menu from './Componentes/Menu'
-import Button from './Componentes/Button'
-import Heading from './componentes/Heading'
-import Bannerpic from '../src/assets/Bannerpic.png'
-import Point from '../src/assets/Point.png'
-import Logo from "../src/assets/Logo.png"
-import sweater from "../src/assets/sweater.png"
-import jeans from "../src/assets/jeans.png"
-import baskets from "../src/assets/baskets.png"
-import model from "../src/assets/model.png"
-import sellerlady from "../src/assets/sellerlady.png"
-import sellerjeans from "../src/assets/sellerjeans.png"
-import { IoMdStar } from "react-icons/io"
+import Container from './Componentes/Container';
+import Flex from './Componentes/Flex';
+import Image from './Componentes/Image';
+import Menu from './Componentes/Menu';
+import Button from './Componentes/Button';
+import Heading from './componentes/Heading';
+import Bannerpic from '../src/assets/Bannerpic.png;'
+import Point from '../src/assets/Point.png';
+import Logo from "../src/assets/Logo.png";
+import sweater from "../src/assets/sweater.png";
+import jeans from "../src/assets/jeans.png";
+import baskets from "../src/assets/baskets.png";
+import model from "../src/assets/model.png";
+import sellerlady from "../src/assets/sellerlady.png";
+import sellerjeans from "../src/assets/sellerjeans.png";
+import { IoMdStar } from "react-icons/io";
 
 
 
