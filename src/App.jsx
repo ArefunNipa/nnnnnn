@@ -25,8 +25,9 @@ function App() {
 
   return (
     <>
+    
     {/* Header Part */}
-     <div className="bg-menuColor py-5">
+    <div className="bg-menuColor py-5">
      <Container>
       <Flex>
         <div className="w-[10%] pt-2">
@@ -124,7 +125,7 @@ function App() {
       </Container>
     </div>
     {/* Counter Part */}
-    
+
     {/* Seller Part */}
     <div className="bg-sellerColor py-40">
       <Container>
